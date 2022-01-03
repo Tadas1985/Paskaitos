@@ -10,39 +10,73 @@ namespace TreciaPaskaita
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter three symbols:");
-            var symbol1 = Console.ReadLine();
-            char a = Convert.ToChar(symbol1.Substring(2,1));
-            char b = Convert.ToChar(symbol1.Substring(1, 1));
-            char c = Convert.ToChar(symbol1.Substring(0, 1));
+            //console.writeline("enter three symbols:");
+            //var symbol1 = console.readline();
+            //char a = convert.tochar(symbol1.substring(2,1));
+            //char b = convert.tochar(symbol1.substring(1, 1));
+            //char c = convert.tochar(symbol1.substring(0, 1));
 
-            Console.WriteLine($" Sybol3 is {a}, symbol2 is {b}, symbol1 is {c}");
-            Console.ReadKey();
+            //console.writeline($" sybol3 is {a}, symbol2 is {b}, symbol1 is {c}");
+            //console.readkey();
 
-            Console.WriteLine("Enter distance in meters:");
-            int meters = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Enter time in seconds");
-            int seconds = Convert.ToInt32(Console.ReadLine());
-            var metersPerSecond = meters / seconds;
-            var speed = (3.6 * metersPerSecond);
-            Console.WriteLine($"{meters} meters per {seconds} second is {speed} km/h");
-            Console.ReadLine();
+            //console.writeline("enter distance in meters:");
+            //int meters = convert.toint32(console.readline());
+            //console.writeline("enter time in seconds");
+            //int seconds = convert.toint32(console.readline());
+            //var meterspersecond = meters / seconds;
+            //var speed = (3.6 * meterspersecond);
+            //console.writeline($"{meters} meters per {seconds} second is {speed} km/h");
+            //console.readline();
 
-            Console.WriteLine("Enter the radius of the sphere:");
-            var radius = Convert.ToInt32(Console.ReadLine());
-            var volume = (float)(4.0 / 3 * Math.PI * radius * radius * radius);
-            float area = (float)(4 * Math.PI * radius * radius);
-            Console.WriteLine($"Sphere volume is {volume}, and area is {area}");
-            Console.ReadLine();
+            //console.writeline("enter the radius of the sphere:");
+            //var radius = convert.toint32(console.readline());
+            //var volume = (float)(4.0 / 3 * math.pi * radius * radius * radius);
+            //float area = (float)(4 * math.pi * radius * radius);
+            //console.writeline($"sphere volume is {volume}, and area is {area}");
+            //console.readline();
 
 
-            Console.WriteLine("Enter number1: ");
-            var number1 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Enter number2:");
-            var number2 = Convert.ToInt32(Console.ReadLine());
-            bool isEven = number1 % 2 ==0 && number2 %2 ==0;
-            Console.WriteLine(isEven);
-            Console.ReadLine();
+            //console.writeline("enter number1: ");
+            //var number1 = convert.toint32(console.readline());
+            //console.writeline("enter number2:");
+            //var number2 = convert.toint32(console.readline());
+            //bool iseven = number1 % 2 ==0 && number2 %2 ==0;
+            //console.writeline(iseven);
+            //console.readline();
+
+            Console.WriteLine("Enter the number of people");
+            var numOfPeople = (Console.ReadLine());
+            int number;
+            if (int.TryParse(numOfPeople, out number))
+            {
+                if (number == 1)
+                {
+                    Console.WriteLine("Its solo player");
+                }
+                else if (number == 2)
+                {
+                    Console.WriteLine("Its duet");
+                }
+                else if (number > 2 && number < 10)
+                {
+                    Console.WriteLine("Its a group");
+                }
+                else if (number > 10);
+                {
+                    Console.WriteLine("Its a large group");
+                }
+               
+            }
+            else 
+            {
+
+                Console.WriteLine("You entered invalid value");
+                Environment.Exit(1);
+                Console.ReadKey();
+            }
+            
+           Console.ReadKey();
+
         }
     }
 }
