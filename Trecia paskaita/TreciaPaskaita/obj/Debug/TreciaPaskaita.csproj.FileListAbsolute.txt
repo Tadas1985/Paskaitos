@@ -1,0 +1,8 @@
+C:\Users\tadas.valutis\Desktop\CodeAcademy\Paskaitos\PASKAITOS\Trecia paskaita\TreciaPaskaita\bin\Debug\TreciaPaskaita.exe.config
+C:\Users\tadas.valutis\Desktop\CodeAcademy\Paskaitos\PASKAITOS\Trecia paskaita\TreciaPaskaita\bin\Debug\TreciaPaskaita.exe
+C:\Users\tadas.valutis\Desktop\CodeAcademy\Paskaitos\PASKAITOS\Trecia paskaita\TreciaPaskaita\bin\Debug\TreciaPaskaita.pdb
+C:\Users\tadas.valutis\Desktop\CodeAcademy\Paskaitos\PASKAITOS\Trecia paskaita\TreciaPaskaita\obj\Debug\TreciaPaskaita.csproj.AssemblyReference.cache
+C:\Users\tadas.valutis\Desktop\CodeAcademy\Paskaitos\PASKAITOS\Trecia paskaita\TreciaPaskaita\obj\Debug\TreciaPaskaita.csproj.SuggestedBindingRedirects.cache
+C:\Users\tadas.valutis\Desktop\CodeAcademy\Paskaitos\PASKAITOS\Trecia paskaita\TreciaPaskaita\obj\Debug\TreciaPaskaita.csproj.CoreCompileInputs.cache
+C:\Users\tadas.valutis\Desktop\CodeAcademy\Paskaitos\PASKAITOS\Trecia paskaita\TreciaPaskaita\obj\Debug\TreciaPaskaita.exe
+C:\Users\tadas.valutis\Desktop\CodeAcademy\Paskaitos\PASKAITOS\Trecia paskaita\TreciaPaskaita\obj\Debug\TreciaPaskaita.pdb
