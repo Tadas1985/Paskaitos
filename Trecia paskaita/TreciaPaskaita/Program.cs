@@ -107,7 +107,13 @@ namespace TreciaPaskaita
             // Homework 
             Console.WriteLine("Enter exam grade");
             var examGrade = Console.ReadLine();
-            int.TryParse(examGrade, out int grade);
+            if (!int.TryParse(examGrade, out int grade))
+            {
+                Console.WriteLine("You entered invalid value");
+                Console.ReadLine();
+                Environment.Exit(1);
+            }
+            
             switch (grade)
             {
                 case (10):
