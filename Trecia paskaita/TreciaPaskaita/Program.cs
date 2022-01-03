@@ -25,7 +25,7 @@ namespace TreciaPaskaita
             int seconds = Convert.ToInt32(Console.ReadLine());
             var metersPerSecond = meters / seconds;
             var speed = (3.6 * metersPerSecond);
-            Console.WriteLine($"{meters} meters per {seconds} second is {speed} km?h");
+            Console.WriteLine($"{meters} meters per {seconds} second is {speed} km/h");
             Console.ReadLine();
 
             Console.WriteLine("Enter the radius of the sphere:");
