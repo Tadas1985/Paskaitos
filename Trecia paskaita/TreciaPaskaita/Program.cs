@@ -47,64 +47,64 @@ namespace TreciaPaskaita
 
 
             // Homework 1
-            //Console.WriteLine("Enter the number of people");
-            //var numOfPeople = (Console.ReadLine());
+            Console.WriteLine("Enter the number of people");
+            var numOfPeople = (Console.ReadLine());
 
-            //if (int.TryParse(numOfPeople, out int number))
-            //{
-            //    if (number == 1)
-            //    {
-            //        Console.WriteLine("Its solo player");
-            //    }
-            //    else if (number == 2)
-            //    {
-            //        Console.WriteLine("Its duet");
-            //    }
-            //    else if (number > 2 && number < 10)
-            //    {
-            //        Console.WriteLine("Its a group");
-            //    }
-            //    else if (number > 10);
-            //    {
-            //        Console.WriteLine("Its a large group");
-            //    }
+            if (int.TryParse(numOfPeople, out int number))
+            {
+                if (number == 1)
+                {
+                    Console.WriteLine("Its solo player");
+                }
+                else if (number == 2)
+                {
+                    Console.WriteLine("Its duet");
+                }
+                else if (number > 2 && number < 10)
+                {
+                    Console.WriteLine("Its a group");
+                }
+                else if (number > 10) ;
+                {
+                    Console.WriteLine("Its a large group");
+                }
 
-            //}
-            //else 
-            //{
+            }
+            else
+            {
 
-            //    Console.WriteLine("You entered invalid value");
-            //    Environment.Exit(1);
-            //    Console.ReadKey();
-            //}
+                Console.WriteLine("You entered invalid value");
+                Environment.Exit(1);
+                Console.ReadKey();
+            }
 
             // Homework 2
 
-            //Console.WriteLine("Enter the worked hours");
-            //var workedHours = (Console.ReadLine());
+            Console.WriteLine("Enter the worked hours");
+            var workedHours = (Console.ReadLine());
 
-            //if (!int.TryParse(workedHours, out int hours))
-            //{
-            //    Console.WriteLine("You entered invalid value");
-            //    Console.ReadLine();
-            //    Environment.Exit(1);
-            //}
-            //else if (hours < 160)
-            //{
-            //    Console.WriteLine($"You worked less than 160 hours, you still need to work {160 - hours}");
-            //    Console.ReadLine();
-            //}
-            //else if (hours == 160) 
-            //{
-            //    Console.WriteLine("You worked full time");
-            //}
-            //else
-            //{
-            //    Console.WriteLine($"You worked {hours-160} hours overtime");
-            //    Console.ReadLine();
-            //}
+            if (!int.TryParse(workedHours, out int hours))
+            {
+                Console.WriteLine("You entered invalid value");
+                Console.ReadLine();
+                Environment.Exit(1);
+            }
+            else if (hours < 160)
+            {
+                Console.WriteLine($"You worked less than 160 hours, you still need to work {160 - hours}");
+                Console.ReadLine();
+            }
+            else if (hours == 160)
+            {
+                Console.WriteLine("You worked full time");
+            }
+            else
+            {
+                Console.WriteLine($"You worked {hours - 160} hours overtime");
+                Console.ReadLine();
+            }
 
-            // Homework 
+            // Homework 3
             Console.WriteLine("Enter exam grade");
             var examGrade = Console.ReadLine();
             if (!int.TryParse(examGrade, out int grade))
