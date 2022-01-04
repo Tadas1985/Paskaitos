@@ -1,0 +1,8 @@
+C:\Users\tadas.valutis\Desktop\CodeAcademy\Paskaitos\PASKAITOS\Ketvirta paskaita\KetvirtaPaskaita\bin\Debug\KetvirtaPaskaita.exe.config
+C:\Users\tadas.valutis\Desktop\CodeAcademy\Paskaitos\PASKAITOS\Ketvirta paskaita\KetvirtaPaskaita\bin\Debug\KetvirtaPaskaita.exe
+C:\Users\tadas.valutis\Desktop\CodeAcademy\Paskaitos\PASKAITOS\Ketvirta paskaita\KetvirtaPaskaita\bin\Debug\KetvirtaPaskaita.pdb
+C:\Users\tadas.valutis\Desktop\CodeAcademy\Paskaitos\PASKAITOS\Ketvirta paskaita\KetvirtaPaskaita\obj\Debug\KetvirtaPaskaita.csproj.AssemblyReference.cache
+C:\Users\tadas.valutis\Desktop\CodeAcademy\Paskaitos\PASKAITOS\Ketvirta paskaita\KetvirtaPaskaita\obj\Debug\KetvirtaPaskaita.csproj.SuggestedBindingRedirects.cache
+C:\Users\tadas.valutis\Desktop\CodeAcademy\Paskaitos\PASKAITOS\Ketvirta paskaita\KetvirtaPaskaita\obj\Debug\KetvirtaPaskaita.csproj.CoreCompileInputs.cache
+C:\Users\tadas.valutis\Desktop\CodeAcademy\Paskaitos\PASKAITOS\Ketvirta paskaita\KetvirtaPaskaita\obj\Debug\KetvirtaPaskaita.exe
+C:\Users\tadas.valutis\Desktop\CodeAcademy\Paskaitos\PASKAITOS\Ketvirta paskaita\KetvirtaPaskaita\obj\Debug\KetvirtaPaskaita.pdb
