@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P0aKgKRzeGPP67oZy8/GdZI4vDXd0g8VLzu2LUm7zTTWYOYFhSclcCV1GJSPkR2d8tFx4EFAZZjnlI8ylGDubA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tadas.valutis\\Desktop\\CodeAcademy\\Paskaitos\\PASKAITOS\\Penkta paskaita\\Penkta paskaita\\Penkta paskaita.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tadas.valutis\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
