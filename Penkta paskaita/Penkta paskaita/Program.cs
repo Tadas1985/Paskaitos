@@ -91,51 +91,51 @@ namespace Penkta_paskaita
             //Console.WriteLine();
             //------------------------------------------------------------
             // Sukurti 2 masyvus ir užpildyti atsitiktiniais skaičiais. Sujungti juos į vieną, surūšiuoti ir išvesti
-            var randomNumber = new Random();
-            int[] myNums = new int[5];
-            int[] myNums2 = new int[5];
-            int[] myNums3 = new int[10];
+            //var randomNumber = new Random();
+            //int[] myNums = new int[5];
+            //int[] myNums2 = new int[5];
+            //int[] myNums3 = new int[10];
 
-            Console.WriteLine("Array1:");
-            for (int i = 0; i < 5; i++)
-            {
-                myNums[i] = randomNumber.Next(1, 10);
-            }
-            foreach (var item in myNums)
-            {
-                Console.WriteLine($"{item}, ");
-            }
-            Console.WriteLine("");
-            Console.WriteLine("Array2:");
-            for (int i = 0; i < 5; i++)
-            {
-                myNums2[i]= randomNumber.Next(1, 10);    
-            }
-            foreach (var item in myNums2)
-            {
-                Console.WriteLine($"{item}, ");
-            }
-            Console.WriteLine("");
-            Console.WriteLine("Array3:");
-            for (int i = 0; i < 5; i++)
-            {
-                myNums3[i]= myNums[i]; 
-            }
-            for (int i = 5; i < 10; i++)
-            {
-                myNums3[i] = myNums2[i - 5];
-            }
-            foreach (var  item in myNums3)
-            {
-                Console.WriteLine($"{item}");
-            }
-            Console.WriteLine("");
-            Console.WriteLine("Sorted array3:");
-            Array.Sort(myNums3);
-            foreach (var item in myNums3)
-            {
-                Console.WriteLine($"{item}, ");
-            }
+            //Console.WriteLine("Array1:");
+            //for (int i = 0; i < 5; i++)
+            //{
+            //    myNums[i] = randomNumber.Next(1, 10);
+            //}
+            //foreach (var item in myNums)
+            //{
+            //    Console.WriteLine($"{item}, ");
+            //}
+            //Console.WriteLine("");
+            //Console.WriteLine("Array2:");
+            //for (int i = 0; i < 5; i++)
+            //{
+            //    myNums2[i]= randomNumber.Next(1, 10);    
+            //}
+            //foreach (var item in myNums2)
+            //{
+            //    Console.WriteLine($"{item}, ");
+            //}
+            //Console.WriteLine("");
+            //Console.WriteLine("Array3:");
+            //for (int i = 0; i < 5; i++)
+            //{
+            //    myNums3[i]= myNums[i]; 
+            //}
+            //for (int i = 5; i < 10; i++)
+            //{
+            //    myNums3[i] = myNums2[i - 5];
+            //}
+            //foreach (var  item in myNums3)
+            //{
+            //    Console.WriteLine($"{item}");
+            //}
+            //Console.WriteLine("");
+            //Console.WriteLine("Sorted array3:");
+            //Array.Sort(myNums3);
+            //foreach (var item in myNums3)
+            //{
+            //    Console.WriteLine($"{item}, ");
+            //}
 
 
             //------------------------------------------------------------------------------------------------------
@@ -262,6 +262,7 @@ namespace Penkta_paskaita
 
 
             //-----------------------------------------------------------------------------
+           
         }
     }
 
