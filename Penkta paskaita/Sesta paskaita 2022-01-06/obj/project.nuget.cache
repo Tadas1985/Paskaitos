@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RTQIov/1S3nCHiISrcCyzwNMD/6jOmV8vyUYrG2XOKUklEJLtZzYvvPitwYFyxM0d2EawnHsfArW/FwyxPQCgA==",
+  "dgSpecHash": "f5epzhcY8oKEpiToYxMnsNII3UGbhTPGpcu8Z0Y47rmgPWVxgk60NA3dIkymVY8wYTG6VwQuTZ6t2/vTpnfDNg==",
   "success": true,
   "projectFilePath": "C:\\Users\\tadas.valutis\\Desktop\\CodeAcademy\\Paskaitos\\PASKAITOS\\Penkta paskaita\\Sesta paskaita 2022-01-06\\Sesta paskaita 2022-01-06.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\tadas.valutis\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

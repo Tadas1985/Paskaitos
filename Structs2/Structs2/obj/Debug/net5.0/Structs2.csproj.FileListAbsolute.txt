@@ -1,0 +1,16 @@
+C:\Users\tadas.valutis\Desktop\CodeAcademy\Paskaitos\PASKAITOS\Structs2\Structs2\bin\Debug\net5.0\Structs2.exe
+C:\Users\tadas.valutis\Desktop\CodeAcademy\Paskaitos\PASKAITOS\Structs2\Structs2\bin\Debug\net5.0\Structs2.deps.json
+C:\Users\tadas.valutis\Desktop\CodeAcademy\Paskaitos\PASKAITOS\Structs2\Structs2\bin\Debug\net5.0\Structs2.runtimeconfig.json
+C:\Users\tadas.valutis\Desktop\CodeAcademy\Paskaitos\PASKAITOS\Structs2\Structs2\bin\Debug\net5.0\Structs2.runtimeconfig.dev.json
+C:\Users\tadas.valutis\Desktop\CodeAcademy\Paskaitos\PASKAITOS\Structs2\Structs2\bin\Debug\net5.0\Structs2.dll
+C:\Users\tadas.valutis\Desktop\CodeAcademy\Paskaitos\PASKAITOS\Structs2\Structs2\bin\Debug\net5.0\ref\Structs2.dll
+C:\Users\tadas.valutis\Desktop\CodeAcademy\Paskaitos\PASKAITOS\Structs2\Structs2\bin\Debug\net5.0\Structs2.pdb
+C:\Users\tadas.valutis\Desktop\CodeAcademy\Paskaitos\PASKAITOS\Structs2\Structs2\obj\Debug\net5.0\Structs2.csproj.AssemblyReference.cache
+C:\Users\tadas.valutis\Desktop\CodeAcademy\Paskaitos\PASKAITOS\Structs2\Structs2\obj\Debug\net5.0\Structs2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tadas.valutis\Desktop\CodeAcademy\Paskaitos\PASKAITOS\Structs2\Structs2\obj\Debug\net5.0\Structs2.AssemblyInfoInputs.cache
+C:\Users\tadas.valutis\Desktop\CodeAcademy\Paskaitos\PASKAITOS\Structs2\Structs2\obj\Debug\net5.0\Structs2.AssemblyInfo.cs
+C:\Users\tadas.valutis\Desktop\CodeAcademy\Paskaitos\PASKAITOS\Structs2\Structs2\obj\Debug\net5.0\Structs2.csproj.CoreCompileInputs.cache
+C:\Users\tadas.valutis\Desktop\CodeAcademy\Paskaitos\PASKAITOS\Structs2\Structs2\obj\Debug\net5.0\Structs2.dll
+C:\Users\tadas.valutis\Desktop\CodeAcademy\Paskaitos\PASKAITOS\Structs2\Structs2\obj\Debug\net5.0\ref\Structs2.dll
+C:\Users\tadas.valutis\Desktop\CodeAcademy\Paskaitos\PASKAITOS\Structs2\Structs2\obj\Debug\net5.0\Structs2.pdb
+C:\Users\tadas.valutis\Desktop\CodeAcademy\Paskaitos\PASKAITOS\Structs2\Structs2\obj\Debug\net5.0\Structs2.genruntimeconfig.cache

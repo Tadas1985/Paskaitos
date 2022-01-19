@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e517769a-11ea-4053-a0d0-1d74260133a0": {
+      "ProjectGuid": "e517769a-11ea-4053-a0d0-1d74260133a0",
+      "DisplayName": "Structs2",
+      "ColorIndex": 0
+    },
+    "c6399aab-37e2-4538-b2c2-615d46f36ec8": {
+      "ProjectGuid": "c6399aab-37e2-4538-b2c2-615d46f36ec8",
+      "DisplayName": "UnitTest",
+      "ColorIndex": 1
+    },
+    "f9d20781-f4d2-4aa1-ad1c-3bc51251ee77": {
+      "ProjectGuid": "f9d20781-f4d2-4aa1-ad1c-3bc51251ee77",
+      "DisplayName": "MyModels",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
