@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP-2", "OOP-2.csproj", "{3580AA01-4D8E-4B47-9CFF-2D884066ECFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2-UnitTest", "..\OOP2-UnitTest\OOP2-UnitTest.csproj", "{9109CE84-1630-43C7-B256-C00C2C4E54B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "..\Models\Models.csproj", "{33268577-0D59-4ED3-BF95-D1BD69FD47A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3580AA01-4D8E-4B47-9CFF-2D884066ECFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3580AA01-4D8E-4B47-9CFF-2D884066ECFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3580AA01-4D8E-4B47-9CFF-2D884066ECFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3580AA01-4D8E-4B47-9CFF-2D884066ECFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9109CE84-1630-43C7-B256-C00C2C4E54B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9109CE84-1630-43C7-B256-C00C2C4E54B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9109CE84-1630-43C7-B256-C00C2C4E54B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9109CE84-1630-43C7-B256-C00C2C4E54B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33268577-0D59-4ED3-BF95-D1BD69FD47A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33268577-0D59-4ED3-BF95-D1BD69FD47A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33268577-0D59-4ED3-BF95-D1BD69FD47A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33268577-0D59-4ED3-BF95-D1BD69FD47A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D939D0D5-A2D3-496A-AD84-CEB34FD200E5}
+	EndGlobalSection
+EndGlobal
