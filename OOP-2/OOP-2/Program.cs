@@ -91,6 +91,16 @@ namespace OOP_2
             Console.WriteLine($"cuboid.height= {cuboid.Height}");
             Console.WriteLine($"cuboid.volume= {cuboid.GetVolume()}");
 
+            //--------------------------------------------------------------
+
+            Hamburger hamburger = new Hamburger("Basic", "Sausage", 3.56, "White");
+            hamburger.AddHamburgerAddition1("Tomato", 0.27);
+            hamburger.AddHamburgerAddition2("Lettuce", 0.75);
+            hamburger.AddHamburgerAddition3("Cheese", 1.13);
+
+
+            Console.WriteLine($"{hamburger.Name}, {hamburger.Meat}, {hamburger.Price}, {hamburger.BreadRollType}");
+
 
         }
     }

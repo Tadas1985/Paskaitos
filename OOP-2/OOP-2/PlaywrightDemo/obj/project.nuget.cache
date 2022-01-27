@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "I9KGjroR/R1BfbcK/TU4CiUC7h0M5rXKxsFTUBlXiW4bs3MKjl8VSoGxBx5AodyyBCAG+Dx3fBcR+GKpFmSQgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tadas.valutis\\Desktop\\CodeAcademy\\Paskaitos\\PASKAITOS\\OOP-2\\OOP-2\\PlaywrightDemo\\PlaywrightDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tadas.valutis\\.nuget\\packages\\macross.json.extensions\\2.2.0\\macross.json.extensions.2.2.0.nupkg.sha512",
+    "C:\\Users\\tadas.valutis\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\tadas.valutis\\.nuget\\packages\\microsoft.playwright\\1.18.0\\microsoft.playwright.1.18.0.nupkg.sha512",
+    "C:\\Users\\tadas.valutis\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\tadas.valutis\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\tadas.valutis\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\tadas.valutis\\.nuget\\packages\\system.text.json\\6.0.1\\system.text.json.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
